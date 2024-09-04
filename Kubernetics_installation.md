@@ -21,7 +21,7 @@ The Kubernetes command-line tool, kubectl, allows you to run commands against Ku
 1. Installation
 ```sh
 curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64   or curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-latest.x86_64.rpm
-sudo install minikube-linux-amd64 /usr/local/bin/minikube   or  $ sudo rpm -Uvh minikube-latest.x86_64.rp
+sudo install minikube-linux-amd64 /usr/local/bin/minikube   or  $ sudo rpm -Uvh minikube-latest.x86_64.rpm
 ```
 2. Start your cluster
  ```sh
